@@ -1,0 +1,7 @@
+path: detector_dataset
+
+train: train/images
+val: val/images
+
+names:
+  0: aircraft
